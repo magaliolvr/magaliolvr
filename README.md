@@ -1,16 +1,20 @@
-### Hi there 👋
+# Magali Olvr
 
-<!--
-**magaliolvr/magaliolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Apaixonada por Frontend | 🌟 Desafiando Limites | 📚 Aprendendo Constantemente
 
-Here are some ideas to get you started:
+Olá! Sou  Magali ou pode me chamar de Mag também, uma entusiasta de Frontend dedicada, buscando trazer cada vez mais criatividade e soluções inovadoras para o mundo digital. Atualmente, estou mergulhada em uma jornada excitante como OutSystems Frontend Developer na renomada empresa de telecomunicações, NOS SGPS, em Lisboa, Portugal. Aqui, enfrento desafios empolgantes todos os dias, em uma equipe excepcional de UX/UI e é isso que me motiva a crescer e aprender continuamente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco principal está no desenvolvimento Frontend, onde transformo conceitos em interfaces intuitivas, elegantes, responsivas e acessíveis para todos. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias para levar minhas criações a novos patamares de excelência.
+
+Neste espaço GitHub, compartilho projetos que estou desenvolvendo para aprofundar meus conhecimentos e me conectar com outros profissionais apaixonados por tecnologia.
+
+🚀 Vamos criar algo incrível!
+
+## Contatos:
+
+<div>
+
+<a href="https://www.instagram.com/ma__olvr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:maagali.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/magalideoliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

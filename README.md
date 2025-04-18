@@ -1,20 +1,18 @@
 # Magali Olvr
 
-👩🏻‍💻 Apaixonada por Frontend | 🌟 Desafiando Limites | 📚 Aprendendo Constantemente
+👩🏻‍💻 Apaixonada por Frontend | 🌱 Explorando Novas Tecnologias | 📚 Em constante aprendizado
 
-Olá! Sou  Magali ou pode me chamar de Mag também, uma entusiasta de Frontend dedicada, buscando trazer cada vez mais criatividade e soluções inovadoras para o mundo digital. Atualmente, estou mergulhada em uma jornada excitante como OutSystems Frontend Developer na renomada empresa de telecomunicações, NOS SGPS, em Lisboa, Portugal. Aqui, enfrento desafios empolgantes todos os dias, em uma equipe excepcional de UX/UI e é isso que me motiva a crescer e aprender continuamente.
+Olá! Sou a Magali — ou Mag, como preferir! Sou desenvolvedora frontend com paixão por transformar idéias em experiências digitais envolventes, intuitivas e responsivas.
 
-Meu foco principal está no desenvolvimento Frontend, onde transformo conceitos em interfaces intuitivas, elegantes, responsivas e acessíveis para todos. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias para levar minhas criações a novos patamares de excelência.
+Já atuei como Frontend Developer com foco em OutSystems na NOS SGPS, Lisboa, onde pude colaborar com um time incrível de UX/UI e encarar desafios reais em um ambiente dinâmico e de alto impacto. Essa experiência foi essencial para minha base sólida em frontend e para despertar ainda mais meu interesse por criar interfaces de qualidade.
 
-Neste espaço GitHub, compartilho projetos que estou desenvolvendo para aprofundar meus conhecimentos e me conectar com outros profissionais apaixonados por tecnologia.
-
-🚀 Vamos criar algo incrível!
+Atualmente, estou expandindo meus horizontes, me aprofundando em novas tecnologias, frameworks modernos, bibliotecas e boas práticas de desenvolvimento web. Também tenho estudado temas como performance, arquitetura de componentes, design systems e acessibilidade, sempre buscando evoluir como profissional e entregar soluções cada vez melhores.
 
 ## Contatos:
 
 <div>
 
-<a href="https://www.instagram.com/ma__olvr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/ma__olvr/](https://www.instagram.com/mag__olvr/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:maagali.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://www.linkedin.com/in/magalideoliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

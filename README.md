@@ -19,10 +19,12 @@ Atualmente, estou expandindo meus horizontes, me aprofundando em novas tecnologi
 
 ## Ferramentas e Tecnologias
 <div style="display:inline_block" >
+  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" padding-right="40" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" padding-right="40" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" padding-right="40" width="40" height="40" />
+  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" padding-right="40" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" padding-right="40" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" padding-right="40" width="40" height="40"/>

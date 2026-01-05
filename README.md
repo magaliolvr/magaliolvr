@@ -1,54 +1,98 @@
-# Magali Olvr
+# Magali Oliveira ✨
 
-👩🏻‍💻 Apaixonada por Frontend | 🌱 Explorando Novas Tecnologias | 📚 Em constante aprendizado
+👩🏻‍💻 Frontend Engineer  
+🎨 UI/UX • Design Systems • Acessibilidade  
+🌱 Aprendizado contínuo | 🚀 Experiências digitais de qualidade
 
-Olá! Sou a Magali — ou Mag, como preferir! Sou desenvolvedora frontend com paixão por transformar idéias em experiências digitais envolventes, intuitivas e responsivas.
+Sou **Frontend Engineer** com foco em criar interfaces acessíveis, escaláveis e guiadas por boas práticas de UI/UX.  
+Estou em constante evolução, aprofundando meus conhecimentos em **frontend moderno**, explorando **frameworks, design systems e arquitetura de componentes**, enquanto também transito entre **code, low-code e no-code** conforme o contexto do projeto.
 
-Já atuei como Frontend Developer com foco em OutSystems na NOS SGPS, Lisboa, onde pude colaborar com um time incrível de UX/UI e encarar desafios reais em um ambiente dinâmico e de alto impacto. Essa experiência foi essencial para minha base sólida em frontend e para despertar ainda mais meu interesse por criar interfaces de qualidade.
+Utilizo **ferramentas de IA de forma estratégica**, como apoio para validar ideias, acelerar prototipagem, estruturar fluxos ou dar início a processos que não são meu foco principal — sempre mantendo uma abordagem crítica, revisando soluções e garantindo qualidade, consistência e uma boa experiência do usuário.
 
-Atualmente, estou expandindo meus horizontes, me aprofundando em novas tecnologias, frameworks modernos, bibliotecas e boas práticas de desenvolvimento web. Também tenho estudado temas como performance, arquitetura de componentes, design systems e acessibilidade, sempre buscando evoluir como profissional e entregar soluções cada vez melhores.
+*Aprender, adaptar e evoluir fazem parte do meu processo.*
 
-## Contatos:
+---
+
+## 💼 Experiência em Destaque
+
+- Frontend Engineer (OutSystems) na **Babel Ibérica**, alocada a **NOS SGPS**
+- Desenvolvimento de **interfaces escaláveis e acessíveis**
+- Criação de **temas e componentes do zero**
+- Implementação e manutenção de **Design Systems**
+- Documentação em **Live Style Guides**
+- Forte colaboração entre **Design, Frontend e Backend**
+- Atuação em ambientes **Agile (Scrum & Kanban)**
+
+---
+
+## 🧠 Principais Interesses
+
+- Arquitetura de componentes
+- Design Systems
+- Acessibilidade (WCAG)
+- Microinterações e animações
+- Performance Frontend
+- Code / Low-code / No-Code
+- IA aplicada de forma consciente ao desenvolvimento Frontend
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+
+  <img width="40" src="https://image.pngaaa.com/895/2225895-middle.png"/>
+
+
+
+### Frontend
+<div style="display:inline_block">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
+</div>
+
+### Estilo & UI
+<div style="display:inline_block">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+</div>
+
+### Ferramentas & Workflow
+<div style="display:inline_block">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
+</div>
+
+### No-code & IA
+<div style="display:inline_block">
+  <img width="40" src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000"/>
+  <img width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/lovable-color.png"/>
+</div>
+
+---
+
+## 📫 Vamos conversar?
 
 <div>
-
-<a href="https://www.instagram.com/mag__olvr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:maagali.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://www.linkedin.com/in/magalideoliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.instagram.com/mag__olvr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:contact.magalioliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/magalideoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-## Ferramentas e Tecnologias
-<div style="display:inline_block" >
-  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" data-tooltip="PHP" />
-  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" data-tooltip="CSS3" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" padding-right="40" width="40" height="40" data-tooltip="Html5"  />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" padding-right="40" width="40" height="40" data-tooltip="Javascript"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" padding-right="40" width="40" height="40" data-tooltip="Typescript" />
-  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" data-tooltip="Bootstrap"/>
-  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" data-tooltip="Tailwind" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" padding-right="40" width="40" height="40" data-tooltip="React" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" padding-right="40" width="40" height="40" data-tooltip="Vite" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" padding-right="40" width="40" height="40" data-tooltip="VSCode"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" padding-right="40" width="40" height="40" data-tooltip="SASS"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" padding-right="40" width="40" height="40" data-tooltip="Figma"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" padding-right="40" width="40" height="40" data-tooltip="Git"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" padding-right="40" width="40" height="40" data-tooltip="GitLab"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" padding-right="40" width="40" height="40" data-tooltip="GitHub"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" padding-right="40" width="40" height="40" data-tooltip="Vercel"/>
-  <img loading="lazy" src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" padding-right="40" width="40" height="40" />
-  <img loading="lazy" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/lovable-color.png" padding-right="40" width="40" height="40" />
+---
 
-
-
-  
-  
-
-  
-
-
-
-
-  
-  
-
-</div>
+✨ Sempre aberta a novos desafios, aprendizados e boas conversas sobre Frontend, Design e Tecnologia.

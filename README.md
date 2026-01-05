@@ -41,7 +41,7 @@ Utilizo **ferramentas de IA de forma estratégica**, como apoio para validar ide
 
 ### Base Web, Low-Code
 <div style="display:inline_block">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img width="40" src="https://www.nuget.org/profiles/OutSystems/avatar?imageSize=512"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 </div>

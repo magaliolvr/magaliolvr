@@ -39,10 +39,10 @@ Utilizo **ferramentas de IA de forma estratégica**, como apoio para validar ide
 
 ## 🛠️ Tecnologias & Ferramentas
 
-
-  <img width="40" src="https://www.nuget.org/profiles/OutSystems/avatar?imageSize=512"/>
-
-
+### Base Web, Low-Code
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
 ### Frontend
 <div style="display:inline_block">
@@ -50,7 +50,6 @@ Utilizo **ferramentas de IA de forma estratégica**, como apoio para validar ide
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
 </div>
 

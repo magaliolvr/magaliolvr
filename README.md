@@ -25,7 +25,7 @@ Atualmente, estou expandindo meus horizontes, me aprofundando em novas tecnologi
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" padding-right="40" width="40" height="40" data-tooltip="Javascript"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" padding-right="40" width="40" height="40" data-tooltip="Typescript" />
   <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" data-tooltip="Bootstrap"/>
-  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" data-tooltip="Tailwind" />
+  <img padding-right="20" width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" data-tooltip="Tailwind" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" padding-right="40" width="40" height="40" data-tooltip="React" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" padding-right="40" width="40" height="40" data-tooltip="Vite" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" padding-right="40" width="40" height="40" data-tooltip="VSCode"/>

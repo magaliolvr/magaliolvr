@@ -40,7 +40,7 @@ Utilizo **ferramentas de IA de forma estratégica**, como apoio para validar ide
 ## 🛠️ Tecnologias & Ferramentas
 
 
-  <img width="40" src="https://image.pngaaa.com/895/2225895-middle.png](https://www.nuget.org/profiles/OutSystems/avatar?imageSize=512"/>
+  <img width="40" src="https://www.nuget.org/profiles/OutSystems/avatar?imageSize=512"/>
 
 
 

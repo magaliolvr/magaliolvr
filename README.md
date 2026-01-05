@@ -35,6 +35,9 @@ Atualmente, estou expandindo meus horizontes, me aprofundando em novas tecnologi
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" padding-right="40" width="40" height="40" data-tooltip="GitLab"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" padding-right="40" width="40" height="40" data-tooltip="GitHub"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" padding-right="40" width="40" height="40" data-tooltip="Vercel"/>
+  <img loading="lazy" src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" padding-right="40" width="40" height="40" />
+
+  
   
 
   
